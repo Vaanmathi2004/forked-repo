@@ -1,1 +1,2 @@
 hello, today is monday.
+tomorrow will be tuesday.

@@ -1,2 +1,3 @@
 hello, today is monday.
 tomorrow will be tuesday.
+oh god, wednesday!
